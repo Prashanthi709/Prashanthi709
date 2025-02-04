@@ -6,10 +6,10 @@
 🌱 I’m currently working as **SAP MM Consultant**
 
 💬 Ask me about **SAP MM, SQL, HTML, CSS, Python**
-⚡ Fun fact **I am funny😜**
-📫 How to reach me **prashanthi.thaniru@gmail.com**
 
 ⚡ Fun fact **I am funny😜**
+
+📫 How to reach me **prashanthi.thaniru@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
