@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashanthi Tanneeru</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.freepik.com/free-vector/colourful-illustration-female-programmer-doing-her-job_5483074.htm#fromView=keyword&page=2&position=30&uuid=a2fbe018-e355-4004-930a-25612167badb&query=Github+Character">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prashanthi Tanneeru&label=Profile%20views&color=0e75b6&style=flat" alt="Prashanthi Tanneeru" /> </p>
 
